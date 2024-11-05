@@ -4,7 +4,7 @@
 * useful in AV/EDR evasion for malware.
 */
 
-// implementing for large inputs or kys is left as an
+// implementing for large inputs or large keys is left as an
 // exercise to the reader
 // (hint: just use a loop for the key)
 
